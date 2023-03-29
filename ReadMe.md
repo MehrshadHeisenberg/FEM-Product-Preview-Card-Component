@@ -2,6 +2,14 @@
 
 Hi everyone. I did this project and also learnt some new techniques during the way of bulding it. In this markdown I want to tell some of my issues when bulding it and also the things that I learned from building this.
 
+## Skills used in this project:
+
+1- HTML
+
+2- CSS
+
+3- A little bit of responsive design
+
 ## Things that I learned:
 
 1- Some responsive techniques and the problems that would occur if
